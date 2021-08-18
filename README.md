@@ -5,7 +5,7 @@ Remove <meta name="robots" content="noindex, nofollow"> from each page as it pre
 --------------------------------------------------------------------------------
 This Script Is Designed By Naweri Industries
 --------------------------------------------------------------------------------
-More Script at www.naweri.xyz/stores
+More Script at www.naweri.xyz/store
 --------------------------------------------------------------------------------
 
 
