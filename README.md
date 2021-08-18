@@ -8,9 +8,10 @@ This Script Is Designed By Naweri Industries
 More Script at www.naweri.xyz/stores
 --------------------------------------------------------------------------------
 
-http://www.naweri.xyz
- http://naweri.xyz/pay
- http://naweri.xyz/seo
+
+ 2.  http://www.naweri.xyz
+ 3.  http://naweri.xyz/pay
+ 4.  http://naweri.xyz/seo
 
 
 ------------------------------------------------------------------------------
@@ -42,9 +43,10 @@ _     _          _  More Of Our Products --------------------------------------
 
 -------------------------------------------------------------------------------
 
- http://www.naweri.xyz
- http://naweri.xyz/pay
- http://naweri.xyz/seo
+
+ 2.  http://www.naweri.xyz
+ 3.  http://naweri.xyz/pay
+ 4.  http://naweri.xyz/seo
 
 
 
