@@ -1,7 +1,7 @@
 # fotomax
 A movies streaming website with Admin panel PHP - Naweri Industries
 <br>
-Remove the "<meta name="robots" content="noindex, nofollow">" from each page as it prevents google robot from crawling your website
+Remove the "&lt;meta name="robots" content="noindex, nofollow">" from each page as it prevents google robot from crawling your website
 
 --------------------------------------------------------------------------------
 This Script Is Designed By Naweri Industries
