@@ -12,6 +12,8 @@ More Script at www.naweri.xyz/stores
  2.  http://www.naweri.xyz
  3.  http://naweri.xyz/pay
  4.  http://naweri.xyz/seo
+ 5.  http://naweri.xyz/gospena
+ 6.  http://naweri.xyz/store
 
 
 ------------------------------------------------------------------------------
@@ -47,6 +49,8 @@ _     _          _  More Of Our Products --------------------------------------
  2.  http://www.naweri.xyz
  3.  http://naweri.xyz/pay
  4.  http://naweri.xyz/seo
+ 5.  http://naweri.xyz/gospena
+ 6.  http://naweri.xyz/store
 
 
 
