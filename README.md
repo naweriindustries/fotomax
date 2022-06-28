@@ -14,7 +14,7 @@ More Script at www.store.naweri.com
  3.  https://wallet.naweri.com
  4.  https://music.naweri.com
  5.  https://cinema.naweri.com
- 6.  http://naweri.xyz/store
+
 ---------------------------------------------------------------------------------------------------
 
 Try To Convert Your Website To Android App withoud Coding Experience Using Our Online App Builder At
